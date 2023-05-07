@@ -29,9 +29,10 @@ To set up SVG_Logo_Maker on your local machine, follow these instructions:
 
 
 [Git Hub](https://github.com/Daniel-Covington/SVG_Logo_Maker)
+[Demo Clip](https://drive.google.com/file/d/1hIItPrHzAaCJzMwdBwmSrpJ8MDrhJfkN/view)
 
 ## Preview
-
+  
 The following image demonstrates the web application's appearance and functionality:
 
 ![Preview of Website(Desktop)](./assets/images/Preview.png)
